@@ -1,8 +1,6 @@
  <h1 align="center">Hi 👋, I'm Pankaj Gupta</h1>
 <h3 align="center">A passionate web-developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-gupta-codes&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-gupta-codes" /> </p>
-
 - 📫 How to reach me **pg34567345@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
